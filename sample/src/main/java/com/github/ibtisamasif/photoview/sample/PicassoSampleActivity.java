@@ -1,8 +1,8 @@
-package com.github.chrisbanes.photoview.sample;
+package com.github.ibtisamasif.photoview.sample;
 
 import android.os.Bundle;
 
-import com.github.chrisbanes.photoview.PhotoView;
+import com.github.ibtisamasif.photoview.PhotoView;
 import com.squareup.picasso.Picasso;
 
 import androidx.appcompat.app.AppCompatActivity;

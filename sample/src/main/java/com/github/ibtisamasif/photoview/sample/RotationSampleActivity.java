@@ -13,13 +13,13 @@
  See the License for the specific language governing permissions and
  limitations under the License.
  */
-package com.github.chrisbanes.photoview.sample;
+package com.github.ibtisamasif.photoview.sample;
 
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.MenuItem;
 
-import com.github.chrisbanes.photoview.PhotoView;
+import com.github.ibtisamasif.photoview.PhotoView;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;

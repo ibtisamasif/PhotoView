@@ -1,4 +1,4 @@
-package com.github.chrisbanes.photoview.sample;
+package com.github.ibtisamasif.photoview.sample;
 
 import android.content.Context;
 import android.util.AttributeSet;

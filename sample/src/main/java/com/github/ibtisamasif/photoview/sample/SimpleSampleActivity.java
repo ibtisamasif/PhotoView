@@ -13,7 +13,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.
  */
-package com.github.chrisbanes.photoview.sample;
+package com.github.ibtisamasif.photoview.sample;
 
 import android.graphics.Matrix;
 import android.graphics.RectF;
@@ -27,10 +27,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.chrisbanes.photoview.OnMatrixChangedListener;
-import com.github.chrisbanes.photoview.OnPhotoTapListener;
-import com.github.chrisbanes.photoview.OnSingleFlingListener;
-import com.github.chrisbanes.photoview.PhotoView;
+import com.github.ibtisamasif.photoview.OnMatrixChangedListener;
+import com.github.ibtisamasif.photoview.OnPhotoTapListener;
+import com.github.ibtisamasif.photoview.OnSingleFlingListener;
+import com.github.ibtisamasif.photoview.PhotoView;
 
 import java.util.Random;
 

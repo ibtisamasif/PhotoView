@@ -1,4 +1,4 @@
-package com.github.chrisbanes.photoview.sample;
+package com.github.ibtisamasif.photoview.sample;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -6,8 +6,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.github.chrisbanes.photoview.OnPhotoTapListener;
-import com.github.chrisbanes.photoview.PhotoView;
+import com.github.ibtisamasif.photoview.OnPhotoTapListener;
+import com.github.ibtisamasif.photoview.PhotoView;
 import com.squareup.picasso.Picasso;
 
 import androidx.annotation.Nullable;
